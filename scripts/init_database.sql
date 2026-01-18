@@ -13,8 +13,6 @@ WARNING:
     and ensure you have proper backups before running this script.
 */
 
-
--- create database 'DataWarehouse'
 use master;
 GO
 
